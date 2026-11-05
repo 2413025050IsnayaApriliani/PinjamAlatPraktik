@@ -56,7 +56,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'pinjamalatpraktik.firebasestorage.app',
     measurementId: 'G-J2D9KWW6WT',
   );
-
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDLKTn9phLSbOFMI9Vf3ushXvREAlXaXv8',
     appId: '1:782330090047:android:8fa91edbc0f5926a9f9e8a',
